@@ -1,7 +1,7 @@
 # IBM-Data-Science-Capstone-Project-Final-Report
 IBM Data Science Capstone Project Final Report
 
-This is the final project in the IBM Data Science Professional Certificate (https://www.coursera.org/professional-certificates/ibm-data-science), and reflects the completion of 10 in-depth data science courses.
+This is the final project in the IBM Data Science Professional Certificate (https://www.coursera.org/professional-certificates/ibm-data-science), and reflects the completion of 10 in-depth courses in data science.
 
 Key outcomes of completing the Data Science Professional Certificate include:
 
