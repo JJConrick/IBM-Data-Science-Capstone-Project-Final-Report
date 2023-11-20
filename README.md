@@ -15,6 +15,6 @@ Predictive Analysis: Developing and validating machine learning models (logistic
 
 Key findings and strategic insights include:​
 
-Identifying SpaceX's consistent success improvement, highlighting KSC LC-39A as the most successful launch site. Discovered opportunities for targeted pricing strategies and increased prediction precision.​
+Identifying SpaceX's consistent success improvement, highlighting KSC LC-39A as the most successful launch site. Discovering opportunities for targeted pricing strategies and increasing prediction precision.​
 
-Equipping the company with actionable insights for cost estimation, competitive bidding, risk management, market differentiation, strategic planning, resource optimization, customer satisfaction, adaptability to market trends, and regulatory compliance, enhancing its competitive position in the industry.​
+Equipping the company with actionable insights for cost estimation, competitive bidding, risk management, market differentiation, strategic planning, resource optimization, customer satisfaction, adaptability to market trends, and regulatory compliance, enhancing its competitive position in the industry.
