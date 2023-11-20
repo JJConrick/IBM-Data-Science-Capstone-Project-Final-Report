@@ -13,7 +13,7 @@ Key outcomes of completing the Data Science Professional Certificate include:
 
   - Succesfully applying new skills to real-world projects and building a portfolio of data projects that showcase key data science proficiencies.
 
-This includes learning in-demand skills used by professional data scientists including using databases, data visualization, statistical analysis, predictive modeling, machine learning algorithms, and data mining. It also involved working with the latest languages, tools,and libraries including Python, SQL, Jupyter notebooks, Github, Rstudio, Pandas, Numpy, ScikitLearn, Matplotlib, and more.
+This includes learning in-demand skills used by professional data scientists including using databases, data visualization, statistical analysis, predictive modeling, machine learning algorithms, and data mining. It also involves working with the latest languages, tools,and libraries including Python, SQL, Jupyter notebooks, Github, Rstudio, Pandas, Numpy, ScikitLearn, Matplotlib, and more.
 
 
 The Report
